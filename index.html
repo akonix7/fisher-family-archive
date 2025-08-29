@@ -11,7 +11,21 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
-	<body class="is-preload">
+	<script type="text/javascript">
+		function checkPassword() {
+		    var correctPassword = "julie"; // Set your desired password here
+		    var enteredPassword = prompt("Please enter the password to access this content:");
+		
+		    if (enteredPassword === correctPassword) {
+		        // You can unhide content or redirect to another page here
+		        document.getElementById("protectedContent").style.display = "block";
+		    } else {
+		        alert("Incorrect password. Access denied.");
+				window.location.href = 'https://www.google.com';	
+		    }
+	}
+	</script>
+	<body onload="checkPassword()" class="is-preload">
 
 		<!-- Header -->
 			<section id="header">
@@ -491,4 +505,5 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<script src="assets/js/main.js"></script>
 
 	</body>
+
 </html>
