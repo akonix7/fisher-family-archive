@@ -18,14 +18,15 @@
 		
 		    if (enteredPassword === correctPassword) {
 		        // You can unhide content or redirect to another page here
-		        document.getElementById("protectedContent").style.display = "block";
+		        // document.getElementById("protectedContent").style.display = "block";
+				document.getElementsByTagName("BODY")[0].style.display = "block";
 		    } else {
 		        alert("Incorrect password. Access denied.");
 				window.location.href = 'https://www.google.com';	
 		    }
 	}
 	</script>
-	<body onload="checkPassword()" class="is-preload">
+	<body onload="checkPassword()" class="is-preload" style="display: none">
 
 		<!-- Header -->
 			<section id="header">
@@ -507,4 +508,5 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 	</body>
 
 </html>
+
 
