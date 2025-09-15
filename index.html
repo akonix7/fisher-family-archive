@@ -16,7 +16,7 @@
 		    var correctPassword = "julie"; // Set your desired password here
 		    var enteredPassword = prompt("Please enter the password to access this content:");
 		
-		    if (enteredPassword === correctPassword) {
+		    if (enteredPassword.trim().toLowerCase() === correctPassword) {
 		        // You can unhide content or redirect to another page here
 		        // document.getElementById("protectedContent").style.display = "block";
 				document.getElementsByTagName("BODY")[0].style.display = "block";
@@ -508,5 +508,6 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 	</body>
 
 </html>
+
 
 
