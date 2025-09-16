@@ -1,9 +1,9 @@
 [
   {
-     "name":"Casey Fisher",
+     "name":"Casimir Fisher (Glysczynski)",
      "class":"man",
      "extra":{
-        "birthdate":"?",
+        "birthdate":"5 Jan 1911",
         "birthplace_name":"",
         "birth_address1":"",
         "birth_address2":"",
@@ -15,7 +15,7 @@
         "married_place":"",
         "married_city":"",
         "married_state":"",
-        "deathdate":"?",
+        "deathdate":"25 Oct 2003",
         "deathplace_name":"",
         "death_address1":"",
         "death_address2":"",
@@ -25,7 +25,7 @@
         "buried":"Holy Cross Cemetary and Mausoleum, San Diego, California",
         "buried_link":"https://maps.app.goo.gl/vDuFbwrp6wgKNL6fA",
         "buried_grave":"",
-        "notes":""
+        "notes":"Parents last name changed during immigration from Glysczynski to Fisher. Parents: Jacob Glysczynski 6/9/1866 - 2/25/1939 & Veronica Krzyzykowska 10/19/1872 - 5/8/1938"
      },
      "marriages":[
         {
@@ -33,7 +33,7 @@
               "name":"Mabel Simon",
               "class":"woman",
               "extra":{
-                 "birthdate":"1912?",
+                 "birthdate":"14 Aug 1912",
                  "birthplace_name":"",
                  "birth_address1":"",
                  "birth_address2":"",
@@ -45,7 +45,7 @@
                  "married_place":"",
                  "married_city":"",
                  "married_state":"",
-                 "deathdate":"1995?",
+                 "deathdate":"4 Oct 1995",
                  "deathplace_name":"",
                  "death_address1":"",
                  "death_address2":"",
@@ -210,7 +210,7 @@
                  }
               },
               {
-                 "name":"Ronald C. Fisher",
+                 "name":"Ronald Carl Fisher",
                  "class":"man",
                  "extra":{
                     "birthdate":"4 Aug 1936",
@@ -240,10 +240,10 @@
                  "marriages":[
                     {
                        "spouse":{
-                          "name":"Karen Ogden",
+                          "name":"Karen Eloise Ogden",
                           "class":"woman",
                           "extra":{
-                             "birthdate":"?",
+                             "birthdate":"17 Dec 1940",
                              "birthplace_name":"",
                              "birth_address1":"",
                              "birth_address2":"",
@@ -255,7 +255,7 @@
                              "married_place":"",
                              "married_city":"",
                              "married_state":"",
-                             "deathdate":"?",
+                             "deathdate":"12 Jan 2007",
                              "deathplace_name":"",
                              "death_address1":"",
                              "death_address2":"",
@@ -265,7 +265,7 @@
                              "buried":"Ashes spread where?",
                              "buried_link":"",
                              "buried_grave":"",
-                             "notes":""
+                             "notes":"Parents: Norvel Ogden 4/5/1919 - 10/16/2000 & Alberta (Hunter) Ogden born 1921. Maternal Grandparents: Archie Wilford Hunter 11/10/1895 - 12/4/1971 & Grace Kempton 8/8/1900 - 2/19/1987"
                           }
                        },
                        "children":[
@@ -300,10 +300,10 @@
                              "marriages":[
                                 {
                                    "spouse":{
-                                      "name":"Michael Vaughn",
+                                      "name":"Michael Vaughan",
                                       "class":"man",
                                       "extra":{
-                                         "birthdate":"?",
+                                         "birthdate":"11 Mar 1956",
                                          "birthplace_name":"",
                                          "birth_address1":"",
                                          "birth_address2":"",
@@ -315,7 +315,7 @@
                                          "married_place":"",
                                          "married_city":"",
                                          "married_state":"",
-                                         "deathdate":"?",
+                                         "deathdate":"16 May 2010",
                                          "deathplace_name":"",
                                          "death_address1":"",
                                          "death_address2":"",
@@ -330,7 +330,7 @@
                                    },
                                    "children":[
                                       {
-                                         "name":"Jason Vaughn",
+                                         "name":"Jason Vaughan",
                                          "class":"man",
                                          "extra":{
                                             "birthdate":"?",
@@ -360,10 +360,10 @@
 										 "marriages":[
 											{
 											   "spouse":{
-												  "name":"Barbara ?",
+												  "name":"Barbara Sturr",
 												  "class":"woman",
 												  "extra":{
-													 "birthdate":"?",
+													 "birthdate":"13 Jan 1974",
 													 "birthplace_name":"",
 													 "birth_address1":"",
 													 "birth_address2":"",
