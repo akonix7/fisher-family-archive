@@ -393,11 +393,11 @@
 								},
 								{
                                    "spouse":{
-                                      "name":"Christopher Duvernet",
+                                      "name":"Christopher Roland Duvernet",
                                       "class":"man",
                                       "extra":{
-                                         "birthdate":"?",
-                                         "birthplace_name":"",
+                                         "birthdate":"25 May 1955",
+                                         "birthplace_name":"Chicago IL",
                                          "birth_address1":"",
                                          "birth_address2":"",
                                          "birth_city":"?",
@@ -418,7 +418,7 @@
                                          "buried":"",
                                          "buried_link":"",
                                          "buried_grave":"",
-                                         "notes":""
+                                         "notes":"Born Christopher Roland Castillo, adopted by step-dad"
                                       }
                                    },
                                    "children":[
@@ -453,10 +453,10 @@
 										 "marriages":[
 											{
 											   "spouse":{
-												  "name":"Rachel ?",
+												  "name":"Rachel Elizabeth Flanagan",
 												  "class":"woman",
 												  "extra":{
-													 "birthdate":"?",
+													 "birthdate":"04 Dec 1984",
 													 "birthplace_name":"",
 													 "birth_address1":"",
 													 "birth_address2":"",
@@ -478,7 +478,7 @@
 													 "buried":"",
 													 "buried_link":"",
 													 "buried_grave":"",
-													 "notes":""
+													 "notes":"Legally adopted by step-dad at 7 and became Frankhouser"
 												  }
 											   }
 											}]
@@ -486,10 +486,10 @@
 								},
 								{
                                    "spouse":{
-                                      "name":"Annie ?",
+                                      "name":"Ann Romano",
                                       "class":"woman",
                                       "extra":{
-                                         "birthdate":"?",
+                                         "birthdate":"12 Oct 1954",
                                          "birthplace_name":"",
                                          "birth_address1":"",
                                          "birth_address2":"",
